@@ -1,0 +1,3 @@
+[submodule "ThirdParty/multiit"]
+	path = ThirdParty/multiit
+	url = https://github.com/dmikushin/multiit.git
